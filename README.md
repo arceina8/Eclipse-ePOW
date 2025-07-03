@@ -1,4 +1,4 @@
-# Eclipse ePOW
+# Getting Started with Eclipse ePOW (Proof-of-Work)
 
 ### Eclipse announced its new technology epow (RIP eCOW) and said that it will be able to work in many places including mobile devices in the future. 
 As someone who likes to try new things, I install it without any financial expectation and I explain it to you in a simple way (the installation steps are already explained quite simply)
