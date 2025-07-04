@@ -14,7 +14,7 @@ In short, you earn $BITZ tokens by mining. There is no financial return for the 
 sudo apt update && apt upgrade -y
 
 # Install dependencies
-apt install build-essential git curl gcc make jq clang protobuf-compiler pkg-config libssl-dev -y
+sudo apt install build-essential git curl gcc make jq clang protobuf-compiler pkg-config libssl-dev -y
 
 # Install Rust:
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
